@@ -24,4 +24,5 @@ int main(void)
 
     concat(s3, s1, 5, s2, 5);
     printf("s3: %s\n", s3);
+    
 }
